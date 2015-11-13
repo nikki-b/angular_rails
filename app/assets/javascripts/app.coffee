@@ -1,0 +1,1 @@
+template_app = angular.module('template_app',[])
